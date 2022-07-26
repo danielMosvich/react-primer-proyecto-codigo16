@@ -1,0 +1,9 @@
+.footer{
+    background-color: tomato;
+    color: white;
+    padding: 20px;
+  }
+  .footer a {
+    color: white;
+    text-decoration: none;
+  }
